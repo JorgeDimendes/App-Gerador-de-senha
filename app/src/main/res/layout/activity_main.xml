@@ -20,14 +20,14 @@
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnGerarSenha"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="55dp"
         android:layout_margin="20dp"
         android:background="@color/ogrange"
-        android:text="Clique aqui"
+        android:text="Gerar Senha"
         android:padding="15dp"
         android:textAllCaps="true"
         android:textColor="@color/white"
-        android:textSize="18dp" />
+        android:textSize="20sp" />
 
     <TextView
         android:id="@+id/txeSenha"
